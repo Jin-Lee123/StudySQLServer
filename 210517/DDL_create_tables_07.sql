@@ -40,7 +40,9 @@ ALTER TABLE userTBL
 
 --DEFAULT 아무것도 않넣으면 알아서 지정값이 들어감
 
+---
+SELECT * FROM sampleDB.dbo.userTbl;
 
+SELECT * FROM sqlDB.dbo.buyTbl;
 
-
-  
+SELECT * FROM AdventureWorksLT2019.SalesLT.Product;
